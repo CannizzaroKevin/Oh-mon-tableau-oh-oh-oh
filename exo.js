@@ -8,7 +8,7 @@ const couverts = [
     'assiette',
 ];
 
-console.log(converts):
+console.log(converts);
 
 const day = [
     'monday',
